@@ -1,0 +1,9 @@
+.noti{
+    margin-left: 330px;
+    margin-top: 17px;
+}
+.noti button{
+    background-color: brown;
+    color:black;
+    border-radius:15px ;
+}

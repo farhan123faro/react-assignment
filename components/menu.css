@@ -1,0 +1,15 @@
+.menuUl{
+    display: flex;
+    flex: inline;
+    margin-left: 200px;
+    margin-top: 18px;
+}
+.menuUl li a{
+    text-decoration: none;
+    margin-left: 50px;
+    color: black;
+    font-size: large;
+}
+.menuUl li{
+    list-style-type: none;
+}

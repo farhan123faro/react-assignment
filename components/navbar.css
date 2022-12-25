@@ -1,0 +1,7 @@
+
+.navDiv{
+    background-color: chocolate;
+    display: flex;
+    flex: inline;
+    height: 65px;
+}
